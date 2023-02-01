@@ -10,8 +10,8 @@ Being exposed to a fast-paced environment in different roles within multiple pro
 💥 GRADUATED AT SoyHenry AS FULL-STACK DEVELOPER  
 
 • 800+ hours on forming & training in fundamentals (javascript), front-end, back-end & database.  
-• An individual project for Henry after aprove the front, back and database modules. It consists in programming a page about countries using React-Redux, Node-Express, SQL and CSS was barely not needed. The page works through a CRUD with an API and you can read a longer explanation in the project section.  
-• A grupal project of 6 persons working through Github for a real enterprise called 'Gusto'. The project consists in programming a complete delivery page using React-Redux, Node-Express, CSS and libraries (I designed everything before in Photoshop, following the branding of Gusto, because im also a working graphic designer) & SQL. It has a client and an admin side and you can read a longer explanation in the project section.  
+• An individual project for Henry after aprove the front, back and database modules. It consists in programming a page about countries using React-Redux, Node-Express, SQL and CSS was barely not needed. The page works through a CRUD with an API and you can read a longer explanation in the project section of LinkedIn.  
+• A grupal project of 6 persons working through Github for a real enterprise called 'Gusto'. The project consists in programming a complete delivery page using React-Redux, Node-Express, CSS and libraries (I designed everything before in Photoshop, following the branding of Gusto, because im also a working graphic designer) & SQL. It has a client and an admin side and you can read a longer explanation in the project section of LinkedIn.  
 
 
 🧑🏻‍🎓 FORMING & TRAINING EXPERIENCE  
