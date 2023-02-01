@@ -1,4 +1,4 @@
-# Tobías Azcurra
+# TOBÍAS AZCURRA
 
 Entrepreneur & Code-Developer determined to make a difference. I am passionate about technology and how it helps improve lives and processes. As an individual, I am committed to working on matters that will help make a true difference.  
  
@@ -29,7 +29,7 @@ before experiences:
 • Running the branding of 3 enterprises as the main graphic designer (with Photoshop, Premiere, Illustrator).   
 
 
-# 🔎 I am eager to explore new opportunities, if you would like to discuss in more detail please contact me through:  
+# 🔎 I AM EAGER TO EXPLORE NEW OPPORTUNITIES, IF YOU WOULD LIKE TO DISCUSS IN MORE DETAIL PLEASE CONTACT ME THROUGH:  
 • My profile  
 • My email: Tobiascommonplace@gmail.com  
 • My Whatsapp: +54 9 358 516-8971  
